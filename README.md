@@ -1,2 +1,3 @@
-# misc_projects
-python_projects
+# A collection of various projects
+
+_by Eli Vigneron_
